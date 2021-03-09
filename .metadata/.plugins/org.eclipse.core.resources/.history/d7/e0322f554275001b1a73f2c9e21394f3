@@ -1,0 +1,36 @@
+package com.R177219041.q1;
+
+import java.util.Scanner;
+
+public class Combo {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int Arr[] = new int[3];
+		
+		System.out.print("Enter the digits : ");
+		for(int i=0;i<3;i++) {
+			Arr[i] = sc.nextInt();
+		}	
+		
+		int l = Arr.length;
+	
+		for(int i =0;i<l;i++) {
+			if(Arr[i]!=0) {
+				System.out.print(Arr[i]);
+				
+			}
+			for(int j =0;j<l;j++) {
+				
+				int id = (+1)%l;
+				
+				
+			}
+			
+		}
+		
+
+}
+}

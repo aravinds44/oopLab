@@ -1,5 +1,6 @@
 package com.R177219041.q4;
 
+//Second change for git
 public class NumSum {
 	
 	
@@ -15,3 +16,6 @@ public class NumSum {
 	}
 
 }
+
+
+//Change for git
